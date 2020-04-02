@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "645b9af4a0c217afc83ac3955ec44ddc",
+    "revision": "f799bf729b27768bfe573a1ebf3110e9",
     "url": "/exchangerpoint/index.html"
   },
   {
-    "revision": "9b3d20d3db7cce28e1b4",
+    "revision": "63314c1aaf573dabdb69",
     "url": "/exchangerpoint/static/css/main.3a7a8875.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/exchangerpoint/static/js/2.29a6e43a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9b3d20d3db7cce28e1b4",
-    "url": "/exchangerpoint/static/js/main.74b0c2c0.chunk.js"
+    "revision": "63314c1aaf573dabdb69",
+    "url": "/exchangerpoint/static/js/main.dfb44a62.chunk.js"
   },
   {
     "revision": "ad4af15fe265c002c68f",

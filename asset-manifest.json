@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/exchangerpoint/static/css/main.3a7a8875.chunk.css",
-    "main.js": "/exchangerpoint/static/js/main.74b0c2c0.chunk.js",
-    "main.js.map": "/exchangerpoint/static/js/main.74b0c2c0.chunk.js.map",
+    "main.js": "/exchangerpoint/static/js/main.dfb44a62.chunk.js",
+    "main.js.map": "/exchangerpoint/static/js/main.dfb44a62.chunk.js.map",
     "runtime-main.js": "/exchangerpoint/static/js/runtime-main.ce389b2c.js",
     "runtime-main.js.map": "/exchangerpoint/static/js/runtime-main.ce389b2c.js.map",
     "static/js/2.29a6e43a.chunk.js": "/exchangerpoint/static/js/2.29a6e43a.chunk.js",
     "static/js/2.29a6e43a.chunk.js.map": "/exchangerpoint/static/js/2.29a6e43a.chunk.js.map",
     "index.html": "/exchangerpoint/index.html",
-    "precache-manifest.bfff221e220b5733e8e35159be0c6485.js": "/exchangerpoint/precache-manifest.bfff221e220b5733e8e35159be0c6485.js",
+    "precache-manifest.4b92800fe4b7ca3c088b201d713b2217.js": "/exchangerpoint/precache-manifest.4b92800fe4b7ca3c088b201d713b2217.js",
     "service-worker.js": "/exchangerpoint/service-worker.js",
     "static/css/main.3a7a8875.chunk.css.map": "/exchangerpoint/static/css/main.3a7a8875.chunk.css.map",
     "static/js/2.29a6e43a.chunk.js.LICENSE.txt": "/exchangerpoint/static/js/2.29a6e43a.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.ce389b2c.js",
     "static/js/2.29a6e43a.chunk.js",
     "static/css/main.3a7a8875.chunk.css",
-    "static/js/main.74b0c2c0.chunk.js"
+    "static/js/main.dfb44a62.chunk.js"
   ]
 }
