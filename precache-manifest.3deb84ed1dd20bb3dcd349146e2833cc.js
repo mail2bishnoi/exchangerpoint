@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f799bf729b27768bfe573a1ebf3110e9",
+    "revision": "d7d92f5ffe84a755dc22d96343b79dce",
     "url": "/exchangerpoint/index.html"
   },
   {
-    "revision": "63314c1aaf573dabdb69",
-    "url": "/exchangerpoint/static/css/main.3a7a8875.chunk.css"
+    "revision": "462f8e847175bc5870b7",
+    "url": "/exchangerpoint/static/css/main.cb29d2f4.chunk.css"
   },
   {
-    "revision": "0c999d482697caac74db",
-    "url": "/exchangerpoint/static/js/2.29a6e43a.chunk.js"
+    "revision": "d8cce98f8de49e2e5ed6",
+    "url": "/exchangerpoint/static/js/2.5f51ff0f.chunk.js"
   },
   {
-    "revision": "ac9fac6c8e755a8efecd01981adb88e6",
-    "url": "/exchangerpoint/static/js/2.29a6e43a.chunk.js.LICENSE.txt"
+    "revision": "7d9fa850aa2ff6b3a58494c222b6b450",
+    "url": "/exchangerpoint/static/js/2.5f51ff0f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "63314c1aaf573dabdb69",
-    "url": "/exchangerpoint/static/js/main.dfb44a62.chunk.js"
+    "revision": "462f8e847175bc5870b7",
+    "url": "/exchangerpoint/static/js/main.aed70bc4.chunk.js"
   },
   {
     "revision": "ad4af15fe265c002c68f",
